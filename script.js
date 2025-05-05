@@ -6,5 +6,4 @@ function showMessage(type) {
     
     // Show the clicked message
     document.getElementById(`message-${type}`).style.display = 'block';
-  }
-  
+  )
