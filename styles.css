@@ -67,7 +67,6 @@ body {
         transform: translateY(0);
     }
 }
-
 .emoji {
     animation: float 3s ease-in-out infinite;
 }
